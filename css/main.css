@@ -1,0 +1,62 @@
+.red-background {
+  background-color: #bf2c18;
+}
+.white-background {
+  background-color: white;
+}
+.yellow-background {
+  background-color: yellow;
+}
+/*Web atalak*/
+.web-atalak {
+
+  text-align: justify;
+  max-width: 600px;
+}
+.web-atala {
+  margin-bottom: 50px;
+}
+.taldeko-argazkia {
+  margin-top: 30px;
+}
+.taldeko-testua {
+  color: white;
+  text-align: left;
+}
+.taldekideak {
+
+}
+.espacio {
+  margin: 15px 0 0 0;
+}
+.linkedin-logo {
+  width: 15px;
+  height: 15px;
+  margin-bottom: 3px;
+  margin-left: 6px;
+}
+.prentsan {
+
+}
+.kontaktuan {
+
+}
+.contact-logo {
+  width: 60px;
+  height: 60px;
+}
+.sustatzaile-logo {
+  height: 60px;
+}
+.laguntzaileak {
+
+}
+.negrita {
+  font-weight: bold;
+}
+.web-orria {
+  margin-top: 50px;
+}
+.gaztegan-logo {
+  height: 20px;
+}
