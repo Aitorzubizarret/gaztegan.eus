@@ -1,2 +1,2 @@
 # gaztegan.eus
-Gaztegan caldearen web orria
+Gaztegan taldearen web orria
